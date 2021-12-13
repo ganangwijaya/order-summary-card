@@ -1,0 +1,18 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+}
+
+.background-svg {
+    background-image: url('images/pattern-background-desktop.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 768px) {
+    .background-svg {
+        background-image: url('images/pattern-background-mobile.svg');
+        background-repeat: no-repeat;
+    }
+    
+}
+
