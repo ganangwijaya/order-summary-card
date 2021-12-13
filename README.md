@@ -21,7 +21,7 @@ The challenge is to build out this order summary card component and get it looki
 
 ### Screenshot
 
-![](screenshot.png)
+![](https://github.com/ganangwijaya/order-summary-card/blob/main/screenshoot.png)
 
 ### Links
 
