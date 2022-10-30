@@ -73,4 +73,3 @@ Here's that part of my code:
 
 - Github - [@ganangwijaya](https://github.com/ganangwijaya)
 - Frontend Mentor - [@ganangwijaya](https://www.frontendmentor.io/profile/ganangwijaya)
-- Twitter - [@ganangwijaya](https://www.twitter.com/ganangwijaya)
